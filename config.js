@@ -26,7 +26,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "送给漂亮的彤Sir": "./imgs/xiaokeai.png",
+        "送给漂亮的彤Sir": "./imgs/shide.jpg",
         // "希望2022的迷茫与停滞": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
